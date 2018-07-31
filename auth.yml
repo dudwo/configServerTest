@@ -15,5 +15,5 @@ auth:
   datasource:
     jdbc-url: jdbc:mysql://localhost:3306/crinity_platform?useSSL=false&serverTimezone=UTC
     username: platform_api
-    password: 12345678
+    password: 1234567890
     maximum-pool-size: 30
